@@ -1,3 +1,25 @@
+### Welcome to study-buddy
+
+This is my first bigger project. The application is used to manage teacher's journal.
+
+## Technologies:
+
+-react
+-react-hook-form
+-react-router-dom
+-styled-components
+-axios
+-msw
+-msw-faker
+-lodash
+-dato-cms
+
+## Components that are tested:
+
+-SearchBar
+-NewsSection
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
