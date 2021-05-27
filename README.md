@@ -4,20 +4,20 @@ This is my first bigger project. The application is used to manage teacher's jou
 
 ## Technologies:
 
--react
--react-hook-form
--react-router-dom
--styled-components
--axios
--msw
--msw-faker
--lodash
--dato-cms
+1. react
+2. react-hook-form
+3. react-router-dom
+4. styled-components
+5. axios
+6. msw
+7. msw-faker
+8. lodash
+9. dato-cms
 
 ## Components that are tested:
 
--SearchBar
--NewsSection
+1. SearchBar
+2. NewsSection
 
 
 # Getting Started with Create React App
