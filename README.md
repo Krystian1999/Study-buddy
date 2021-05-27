@@ -1,8 +1,8 @@
-### Welcome to study-buddy
+## Welcome to study-buddy
 
 This is my first bigger project. The application is used to manage teacher's journal.
 
-## Technologies:
+### Technologies:
 
 1. react
 2. react-hook-form
@@ -14,7 +14,7 @@ This is my first bigger project. The application is used to manage teacher's jou
 8. lodash
 9. dato-cms
 
-## Components that are tested:
+### Components that are tested:
 
 1. SearchBar
 2. NewsSection
